@@ -1,2 +1,4 @@
 /* write your override styles here */
-#wall div
+#wall div {
+  display: none;
+}
